@@ -1,4 +1,5 @@
 # Thư viện streamlit
+# Thư viện nhận dạng giọng nói
 import streamlit as st
 import speech_recognition as sr
 import io
